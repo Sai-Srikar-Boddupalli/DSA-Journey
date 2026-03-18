@@ -11,8 +11,8 @@ Currently focusing on mastering core algorithmic patterns rather than random pro
 
 ## 📊 Progress Tracker
 
-
 | Pattern | Problem | Difficulty | Solution |
 | :--- | :--- | :--- | :--- |
 | Arrays & Hashing | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | Medium | [Python](./Arrays_and_Hashing/longest_consecutive_sequence.py) |
 | Arrays & Hashing | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [Python](./Arrays_and_Hashing/two_sum.py) |
+| Arrays & Hashing | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | Easy | [Python](./Arrays_and_Hashing/concatenation_of_array.py) |
